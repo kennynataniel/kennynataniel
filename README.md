@@ -15,3 +15,9 @@ I’m a software developer from Indonesia with a background in Web2 development.
 
 <br />
 <br />
+
+<h2> 📈 Github Stats </h2> 
+<a href="https://github.com/kennynataniel/github-readme-stats"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennynataniel&layout=compact&theme=tokyonight" /></a>
+
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=kennynataniel&theme=tokyonight" alt="kennynataniel" />
+
