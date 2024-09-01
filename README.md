@@ -3,7 +3,7 @@
 I’m a software developer from Indonesia with a background in Web2 development. I'm passionate about technology and always eager to learn new things. Currently, I'm diving deep into Web3, with the goal of becoming a proficient blockchain developer.
 
 - 🎓 Graduated from **Bina Nusantara University, Indonesia**
-- 🔭 I’m currently working on Web3 projects and exploring the blockchain space.
+- 🔭 I’m currently working on Web2 projects in IT Company and exploring the blockchain space.
 - 🌱 I’m currently learning Solidity, smart contract development, and decentralized applications.
 
 
