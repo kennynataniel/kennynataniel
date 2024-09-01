@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Kenny Nataniel
 
-<!--
-**kennynataniel/kennynataniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer from Indonesia with a background in Web2 development. I'm passionate about technology and always eager to learn new things. Currently, I'm diving deep into Web3, with the goal of becoming a proficient blockchain developer.
 
-Here are some ideas to get you started:
+- 🎓 Graduated from **Bina Nusantara University, Indonesia**
+- 🔭 I’m currently working on Web3 projects and exploring the blockchain space.
+- 🌱 I’m currently learning Solidity, smart contract development, and decentralized applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2> 🤝 Connect with me </h2> 
+<a href="https://www.linkedin.com/in/kennynataniel/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="https://www.instagram.com/kennynataniel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>&nbsp;
+<a href="https://twitter.com/kennynataniel1" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+
+
+<br />
+<br />
